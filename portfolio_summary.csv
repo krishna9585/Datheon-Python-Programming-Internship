@@ -1,0 +1,9 @@
+# Datheon Stock Portfolio Performance Tracker
+# Generated: 2026-10-25 09:49:44
+# Price source mode: DEMO (sample_prices.csv — NOT real-time)
+# WARNING: DEMO prices are NOT real-time market prices.
+#
+ticker,purchase_price,quantity,current_price,invested,market_value,profit_loss,return_pct,price_source
+AAPL,100.00,2,227.52,200.00,455.04,255.04,127.5200,DEMO (not real-time)
+MSFT,200.00,3,415.30,600.00,1245.90,645.90,107.6500,DEMO (not real-time)
+TOTAL,,,,800.00,1700.94,900.94,112.6175,

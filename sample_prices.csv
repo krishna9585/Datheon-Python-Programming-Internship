@@ -1,0 +1,14 @@
+# DEMONSTRATION DATA ONLY — These are NOT real-time prices.
+# Last manually updated: 2026-10-25
+# Use this file to test the tracker without an internet connection.
+ticker,demo_price,note
+AAPL,227.52,Apple Inc. — demonstration price only
+MSFT,415.30,Microsoft Corp. — demonstration price only
+GOOGL,175.85,Alphabet Inc. — demonstration price only
+AMZN,198.40,Amazon.com Inc. — demonstration price only
+TSLA,245.60,Tesla Inc. — demonstration price only
+NVDA,136.70,NVIDIA Corp. — demonstration price only
+META,562.10,Meta Platforms Inc. — demonstration price only
+NFLX,705.00,Netflix Inc. — demonstration price only
+BRK-B,452.30,Berkshire Hathaway B — demonstration price only
+JPM,225.15,JPMorgan Chase — demonstration price only

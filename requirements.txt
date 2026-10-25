@@ -1,0 +1,9 @@
+# Datheon Stock Portfolio Performance Tracker — requirements.txt
+#
+# OPTIONAL: Install this for live real-time stock prices.
+# The tracker works fully without it using sample_prices.csv (DEMO mode).
+#
+# Install with:
+#   pip install -r requirements.txt
+
+yfinance>=0.2.48
